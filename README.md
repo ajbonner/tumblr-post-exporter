@@ -25,6 +25,9 @@ the second argument).
 MIT, do what you will with it, just include a copy of the MIT licence.
 
 ## Contact
-[ajbonner @ twitter](https://twitter.com/ajbonner)
-[aaron@aaronbonner.io](mailto:aaron@aaronbonner.io)
-[Blog - https://aaronbonner.io](https://aaronbonner.io)
+Twitter: [ajbonner](https://twitter.com/ajbonner)
+
+Email: [aaron@aaronbonner.io](mailto:aaron@aaronbonner.io)
+
+Blog: [https://aaronbonner.io](https://aaronbonner.io)
+
