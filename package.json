@@ -1,0 +1,28 @@
+{
+  "name": "tumblr-post-exporter",
+  "version": "1.0.0",
+  "description": "Simple lib to simplify exporting post content from tumblr",
+  "main": "exporter.js",
+  "dependencies": {
+    "tumblr.js": "^0.0.4",
+    "oauth": "^0.9.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ajbonner/tumblr-exporter.git"
+  },
+  "keywords": [
+    "tumblr",
+    "nodejs"
+  ],
+  "author": "Aaron Bonner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajbonner/tumblr-exporter/issues"
+  },
+  "homepage": "https://github.com/ajbonner/tumblr-exporter"
+}

@@ -1,0 +1,10 @@
+{
+  "auth_info": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "token": "",
+    "token_secret": ""
+  },
+  "blog_name": "foo.tumblr.com"
+}
+
