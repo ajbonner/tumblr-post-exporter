@@ -11,7 +11,7 @@
 [Tumblr API Documentation](https://www.tumblr.com/docs/en/api/v2)
 
 ## Requirements
- - iojs >= 1.5
+ - node
  - a unixish os
 
 ## Customisation
